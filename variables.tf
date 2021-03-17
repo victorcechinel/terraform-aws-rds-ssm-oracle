@@ -128,7 +128,7 @@ variable "performance_insights_kms_key_id" {
 
 variable "performance_insights_retention_period" {
   type    = number
-  default = ""
+  default = 0
 }
 
 variable "enabled_ssm_parameter_store" {
