@@ -1,3 +1,7 @@
+provider "aws" {
+  region = "sa-east-1"
+}
+
 resource "random_password" "random_password_oracle" {
   length  = 20
   special = false
