@@ -1,6 +1,6 @@
 module "aws_rds_oracle" {
   source  = "victorcechinel/rds-ssm-oracle/aws"
-  version = "1.0.3"
+  version = "1.0.4"
 
   identifier             = "rds-identifier"
   subnet_group           = "my-subnet-group"
