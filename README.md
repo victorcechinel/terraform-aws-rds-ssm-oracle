@@ -1,3 +1,9 @@
+> **⚠️ This repository has been archived and is no longer maintained.**
+>
+> Thank you for your interest in this project. Please note that this repository is now **archived** and **discontinued**.
+>
+> We kindly recommend using the official community module [`terraform-aws-modules/terraform-aws-rds`](https://github.com/terraform-aws-modules/terraform-aws-rds) for AWS RDS provisioning and management, as it is actively maintained and widely adopted.
+
 # AWS RDS Oracle SSM
 
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D1.0.3-blue.svg) [![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
